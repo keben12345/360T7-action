@@ -30,7 +30,7 @@ sed -i 's/192.168.6.1/192.168.50.1/g' package/base-files/files/bin/config_genera
 # git clone --depth 1 https://github.com/Jason6111/luci-app-netdata package/luci-app-netdata
 # git clone --depth 1 -b lede https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
 # git clone --depth 1 https://github.com/kenzok8/openwrt-packages/luci-app-bypass package/luci-app-bypass
-  git clone --depth 1 https://github.com/vernesong/OpenClash package/luci-app-openclash
+# git clone --depth 1 https://github.com/vernesong/OpenClash package/luci-app-openclash
 
 # 科学上网插件
 # svn co https://github.com/kiddin9/openwrt-bypass/trunk/luci-app-bypass package/luci-app-bypass
