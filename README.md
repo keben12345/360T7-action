@@ -21,7 +21,8 @@ GitHub Actions For 360T7 OpenWrt
 ![openwrt](doc/img/openwrt.png)
 
 ## 友情提醒 🤣
-此仓库只是拉取源码进行编译，本人并不会修复相关问题！如果你遇到问题，可以提issues，我会尽力帮助你。
+此仓库只是拉取源码进行编译，本人并不会修复相关问题！
+<br>源码更新，我也会点一下action.</br>
 
 ## 目录介绍 📖
 
@@ -68,3 +69,10 @@ GitHub Actions For 360T7 OpenWrt
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img width="80" src="https://avatars.githubusercontent.com/u/31687149?v=4"/> | <img width="80" src="https://avatars.githubusercontent.com/u/22235437?v=4" /> | <img width="80" src="https://avatars.githubusercontent.com/u/31647663?v=4" /> | <img width="80" src="https://avatars.githubusercontent.com/u/25927179?v=4" /> | <img width="80" src="https://avatars.githubusercontent.com/u/31370133?v=4"/> | <img width="80" src="https://avatars.githubusercontent.com/u/56048681?v=4" /> | <img width="80" src="https://avatars.githubusercontent.com/u/27666983?v=4" /> | <img width="80" src="https://avatars.githubusercontent.com/u/83120842?v=4" /> |
 
+## Star History
+
+<hr>
+ 
+[![Star History Chart](https://api.star-history.com/svg?repos=hkk666/360T7&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+ 
+ <hr>
