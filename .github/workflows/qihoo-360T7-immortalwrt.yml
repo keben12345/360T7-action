@@ -1,4 +1,4 @@
-name: 360T7-padavanonly-mini
+name: qihoo-360T7-immortalwt
 
 on:
   repository_dispatch:
