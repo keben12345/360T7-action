@@ -12,10 +12,10 @@ on:
   #- cron: 0 17 * * 1
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrtARM
-  REPO_BRANCH: mt7981
+  REPO_URL: https://github.com/immortalwrt/immortalwrt
+  REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: ./doc/config/360t7-1.config
+  CONFIG_FILE: ./doc/config/qihoo-360T7-immortalwrt.config
   DIY_P1_SH: ./doc/diy/diy-360T7-hanwckf-1.sh
   DIY_P2_SH: ./doc/diy/diy-360T7-padavanonly-2.sh
   TZ: Asia/Shanghai
